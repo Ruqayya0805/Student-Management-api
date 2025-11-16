@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Data",
+    "\\Features",
+    "\\Features\\Students",
+    "\\Features\\Students\\Commands",
+    "\\Features\\Students\\Handlers",
+    "\\Features\\Students\\Queries",
+    "\\Models",
+    "\\Properties",
+    "\\Repositories"
+  ],
+  "SelectedNode": "\\gitignore",
+  "PreviewInSolutionExplorer": false
+}
